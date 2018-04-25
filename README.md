@@ -1,8 +1,8 @@
-# Faire ses premières bases de données en Rails - Semaine 4  - THP -
+# BDD on Rails - Semaine 4  - THP -
 
 
 
-## Introduction
+## Readme généraaaaal
 
 Créer des premières bases de données avec une application rails, en utilisant la gem ActiveRecord.
 
@@ -19,6 +19,7 @@ Créer des premières bases de données avec une application rails, en utilisant
 
 Ouffr' ton terminal
 ```$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
+
 Se positionner sur le doss'
 ```$ bundle install```
 Et voilà :smile:
@@ -27,11 +28,17 @@ Et voilà :smile:
 ## Petit Bilan :
 
 [x] PLS
+
 [x] PLS
+
 [x] PLS
+
 [x] :poop:
+
 [x] Larmes qui coulent à 23h30, quand tu découvres que Féfé à changé le Dashboard
+
 [ ] Cherche d’urgence un mouss’ peer sauveur, programmeur
+
 
 Je propose de postuler à la PLS la plus longue et fastidieuse de la saison 4 de THP ! 
 
@@ -40,8 +47,6 @@ Je propose de postuler à la PLS la plus longue et fastidieuse de la saison 4 de
 
 Je poste l'image de ma dernière erreur... F¨ck has_many ... J'ai (presque) tout essayé..
 
-
-**_ _Jordane_ _**
 
 
 ###### Slack :love_letter:
