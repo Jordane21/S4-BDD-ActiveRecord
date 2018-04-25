@@ -40,16 +40,22 @@ Et voilà :smile:
 [ ] Cherche d’urgence un mouss’ peer sauveur, programmeur
 
 
+
 Je propose de postuler à la PLS la plus longue et fastidieuse de la saison 4 de THP ! 
+
 
 :pray: Une minute de silence SVP pour le départ de mon premier Joker :smile:
 
 
+
+
+
 Je poste l'image de ma dernière erreur... F¨ck has_many ... J'ai (presque) tout essayé..
+https://github.com/Jordane21/S4-BDD-ActiveRecord/blob/master/Capture%20d%E2%80%99%C3%A9cran%202018-04-25%20%C3%A0%2001.37.03.png
 
 
 
-###### Slack :love_letter:
+## Slack :love_letter:
 
 * Jordane : @Jordane
 
