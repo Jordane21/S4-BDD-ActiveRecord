@@ -51,7 +51,7 @@ Je propose de postuler à la PLS la plus longue et fastidieuse de la saison 4 de
 
 
 Je poste l'image de ma dernière erreur... F¨ck has_many ... J'ai (presque) tout essayé..
-  [Coucou]!(bug.png)
+  ![Coucou](bug.png)
 
 
 
