@@ -1,24 +1,61 @@
-# README
+# BDD on Rails - Semaine 4  - THP -
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+## Readme généraaaaal
 
-* System dependencies
+Créer des premières bases de données avec une application rails, en utilisant la gem ActiveRecord.
 
-* Configuration
+* La startup tech
+* MOOCademy
+* The Hacking Pinterest
+* The Hacking News
+* The Hacking Class
 
-* Database creation
 
-* Database initialization
+## How is it suppose to work ?
 
-* How to run the test suite
+(Rien ne fonctionnera, mais pour le principe…) 
 
-* Services (job queues, cache servers, search engines, etc.)
+Ouffr' ton terminal
+```$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
 
-* Deployment instructions
+Se positionner sur le doss'
+```$ bundle install```
+Et voilà :smile:
 
-* ...
+
+## Petit Bilan :
+
+[x] PLS
+
+[x] PLS
+
+[x] PLS
+
+[x] :poop:
+
+[x] Larmes qui coulent à 23h30, quand tu découvres que Féfé à changé le Dashboard
+
+[ ] Cherche d’urgence un mouss’ peer sauveur, programmeur
+
+
+
+Je propose de postuler à la PLS la plus longue et fastidieuse de la saison 4 de THP ! 
+
+
+:pray: Une minute de silence SVP pour le départ de mon premier Joker :smile:
+
+
+
+
+
+Je poste l'image de ma dernière erreur... F¨ck has_many ... J'ai (presque) tout essayé..
+[] ./https://github.com/Jordane21/S4-BDD-ActiveRecord/blob/master/Capture%20d%E2%80%99%C3%A9cran%202018-04-25%20%C3%A0%2001.37.03.png./
+
+
+
+## Slack :love_letter:
+
+* Jordane : @Jordane
+
